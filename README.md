@@ -1,4 +1,4 @@
-## Oren Hadry
+## Oren Hadri
 
 Senior software engineer with a strong focus on **systems design, execution discipline, and risk-aware engineering**.
 
@@ -21,7 +21,7 @@ I work primarily on backend and infrastructure-heavy systems, with experience bu
 **Python market‑making trading system (personal project)**  
 A conservative, risk‑aware trading system operating primarily as a market maker. The strategy avoids price chasing, reduces fees and execution costs, limits directional exposure, and prioritizes stability over aggressiveness. Ran continuously for ~6 months on real market data with stable and promising results.
 
-→ https://github.com/oren-hadry/MomentumTrader
+→ https://github.com/oren-hadri/MomentumTrader
 
 ---
 
@@ -41,4 +41,4 @@ This GitHub account is used to publish **self‑contained technical projects** t
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/oren-hadry/
+- LinkedIn: https://www.linkedin.com/in/oren-hadri/
